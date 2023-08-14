@@ -70,5 +70,5 @@ Some basic information about the available endpoints is provided by Swagger at: 
 
 ## The logs
 
-The logs are created in the `./logs` subfolder. They can be accessed via the endpoint:
+The logs are created in the `./logs` subfolder. They can be accessed via the endpoin:
 http://localhost:8080/actuator/logfile
